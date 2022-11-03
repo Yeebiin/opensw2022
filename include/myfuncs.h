@@ -1,4 +1,4 @@
-#ifndef __MUFUNCS_H_
+#ifndef __MUFUNCS_H__
 #define __MUFUNCS_H__
 
 void goo(void);
